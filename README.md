@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+## How To Call Web APIs with the useEffect Hook in React
+
+APIs give you the ability to connect to many useful services. They allow you to store and retrieve data even after a user closes their browser or stops using an application. With well organized code, you can isolate your services from your components so that your components can focus on rendering data without knowing where the data is originating. Web APIs extend your application far beyond the capabilities of a browser session or storage. They open your application to the whole world of web technologies.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
